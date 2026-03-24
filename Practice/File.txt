@@ -18,6 +18,13 @@ fg1
 fg1
 fg1
 
+fg2
+fg2
+fg2
+fg2
+fg2
+
+
 f1
 f1
 f1
