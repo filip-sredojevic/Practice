@@ -3,6 +3,12 @@ include1
 
 using namespace std;
 
+fm
+fm
+fm
+fm
+fm
+
 f1
 f1
 f1
