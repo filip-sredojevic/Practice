@@ -1,0 +1,15 @@
+include1
+include1
+
+using namespace std;
+
+
+f1
+f1
+f1
+f1
+
+int main() {
+
+    f1();
+}
